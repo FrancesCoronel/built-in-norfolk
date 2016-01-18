@@ -1,11 +1,47 @@
-# Built in Norfolk
+# Built in Norfolk | Badges
 
-Image Link:
+![built-in-norfolk-badges](images/cover.png)
 
-```
-http://forthebadge.com/images/badges/#{name}.svg
-```
+> Badges for when you're hacking out in Norfolk.
+
+### To include a badge in your README, just copy the `Markdown`.
+
+## Built in Norfolk
+
+![built-in-norfolk](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/built-in-norfolk.svg)
+
+**Markdown**
 
 ```markdown
-![norfolk](http://forthebadge.com/images/badges/no-ragrets.svg)]
+![built-in-norfolk](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/built-in-norfolk.svg)
+```
+
+## Built in Norfolk with Ship
+
+![built-in-norfolk-ship](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/built-in-norfolk-ship.svg)
+
+**Markdown**
+
+```markdown
+![built-in-norfolk-ship](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/built-in-norfolk-ship.svg)
+```
+
+## Powered by 80|20
+
+![powered-by-8020](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/powered-by-8020.svg)
+
+**Markdown**
+
+```markdown
+![powered-by-8020](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/powered-by-8020.svg)
+```
+
+## Hacked at DE
+
+![hacked-at-de](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/hacked-at-de.svg)
+
+**Markdown**
+
+```markdown
+![hacked-at-de](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/hacked-at-de.svg)
 ```
