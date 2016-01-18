@@ -1,2 +1,11 @@
-# built-in-norfolk
-Badges for when you're hacking out in Norfolk, VA. 
+# Built in Norfolk
+
+Image Link:
+
+```
+http://forthebadge.com/images/badges/#{name}.svg
+```
+
+```markdown
+![norfolk](http://forthebadge.com/images/badges/no-ragrets.svg)]
+```
